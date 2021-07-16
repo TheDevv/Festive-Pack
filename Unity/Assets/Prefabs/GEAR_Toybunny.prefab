@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!65 &2165548592640797348
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3549941077950192175}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 5.892001, y: 5.517002, z: 10.3801}
+  m_Center: {x: -7.1962, y: 5.023801, z: 5.189951}
+--- !u!65 &4334113991969125107
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6126281469720790635}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 5.8920007, y: 5.5170016, z: 10.380103}
+  m_Center: {x: -7.1962004, y: 5.0238013, z: 5.1899514}
+--- !u!1001 &4432251544628684670
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: fbcd085d8270af04fb301471ea8168ed,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbcd085d8270af04fb301471ea8168ed,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbcd085d8270af04fb301471ea8168ed,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbcd085d8270af04fb301471ea8168ed,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbcd085d8270af04fb301471ea8168ed,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbcd085d8270af04fb301471ea8168ed,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbcd085d8270af04fb301471ea8168ed,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbcd085d8270af04fb301471ea8168ed,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbcd085d8270af04fb301471ea8168ed,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbcd085d8270af04fb301471ea8168ed,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbcd085d8270af04fb301471ea8168ed,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbcd085d8270af04fb301471ea8168ed,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.07901
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbcd085d8270af04fb301471ea8168ed,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.07901
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: fbcd085d8270af04fb301471ea8168ed,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.07901
+      objectReference: {fileID: 0}
+    - target: {fileID: -2830787459088243703, guid: fbcd085d8270af04fb301471ea8168ed,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bb65ed5254e7f8f488d2bedcfc30c88f, type: 2}
+    - target: {fileID: 919132149155446097, guid: fbcd085d8270af04fb301471ea8168ed,
+        type: 3}
+      propertyPath: m_Name
+      value: 20424_Sitting_inside_an_egg_Texture (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fbcd085d8270af04fb301471ea8168ed, type: 3}
+--- !u!1 &3549941077950192175 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: fbcd085d8270af04fb301471ea8168ed,
+    type: 3}
+  m_PrefabInstance: {fileID: 4432251544628684670}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6126281469720790635 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7531823709640778005, guid: fbcd085d8270af04fb301471ea8168ed,
+    type: 3}
+  m_PrefabInstance: {fileID: 4432251544628684670}
+  m_PrefabAsset: {fileID: 0}

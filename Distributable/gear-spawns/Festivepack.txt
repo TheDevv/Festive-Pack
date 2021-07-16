@@ -1,0 +1,338 @@
+#-----------------
+loottable=BackPack
+#-----------------
+item=Plantern w=100
+item=Skull w=100
+item=Holly w=100
+item=Bells w=100
+item=Eyeball w=100
+item=Halloweencandy w=100
+item=Candycorn w=100
+item=Easterbasket w=100
+item=Eggblue w=100
+item=Egggreen w=100
+item=Eggred w=100
+item=Toybunny w=100
+item=Toysanta w=100
+item=Valentinesheart w=100
+
+
+
+#--------------------
+loottable=CargoDrinkA
+#--------------------
+item=Plantern w=100
+item=Skull w=100
+item=Holly w=100
+item=Holidaycandy1 w=100
+item=Bells w=100
+item=Eyeball w=100
+item=Halloweencandy w=100
+item=Candycorn w=100
+item=Star w=100
+item=Easterbasket w=100
+item=Eggblue w=100
+item=Egggreen w=100
+item=Eggred w=100
+item=Toybunny w=100
+item=Toysanta w=100
+item=Valentinesheart w=100
+
+#--------------------
+loottable=CargoDrinkB
+#--------------------
+item=Plantern w=100
+item=Skull w=100
+item=Holly w=100
+item=Holidaycandy1 w=100
+item=Bells w=100
+item=Eyeball w=100
+item=Halloweencandy w=100
+item=Candycorn w=100
+item=Star w=100
+item=Easterbasket w=100
+item=Eggblue w=100
+item=Egggreen w=100
+item=Eggred w=100
+item=Toybunny w=100
+item=Toysanta w=100
+item=Valentinesheart w=100
+
+#--------------------
+loottable=CargoDrinkC
+#--------------------
+item=Plantern w=100
+item=Skull w=100
+item=Holly w=100
+item=Holidaycandy1 w=100
+item=Bells w=100
+item=Eyeball w=100
+item=Halloweencandy w=100
+item=Candycorn w=100
+item=Star w=100
+item=Easterbasket w=100
+item=Eggblue w=100
+item=Egggreen w=100
+item=Eggred w=100
+item=Toybunny w=100
+item=Toysanta w=100
+item=Valentinesheart w=100
+
+#----------------
+loottable=CashRegister
+#----------------
+item=Plantern w=100
+item=Skull w=100
+item=Holly w=100
+item=Holidaycandy1 w=100
+item=Bells w=100
+item=Eyeball w=100
+item=Halloweencandy w=100
+item=Candycorn w=100
+item=Star w=100
+item=Easterbasket w=100
+item=Eggblue w=100
+item=Egggreen w=100
+item=Eggred w=100
+item=Toybunny w=100
+item=Toysanta w=100
+item=Valentinesheart w=100
+
+#----------------------
+loottable=FishingDrawer
+#----------------------
+item=Plantern w=100
+item=Skull w=100
+item=Holly w=100
+item=Holidaycandy1 w=100
+item=Bells w=100
+item=Eyeball w=100
+item=Halloweencandy w=100
+item=Candycorn w=100
+item=Star w=100
+item=Easterbasket w=100
+item=Eggblue w=100
+item=Egggreen w=100
+item=Eggred w=100
+item=Toybunny w=100
+item=Toysanta w=100
+item=Valentinesheart w=100
+
+#----------------
+loottable=FirstAidKit
+#----------------
+item=Plantern w=100
+item=Skull w=100
+item=Holly w=100
+item=Holidaycandy1 w=100
+item=Bells w=100
+item=Eyeball w=100
+item=Halloweencandy w=100
+item=Candycorn w=100
+item=Star w=100
+item=Easterbasket w=100
+item=Eggblue w=100
+item=Egggreen w=100
+item=Eggred w=100
+item=Toybunny w=100
+item=Toysanta w=100
+item=Valentinesheart w=100
+
+#----------------
+loottable=Freezer
+#----------------
+item=Plantern w=100
+item=Skull w=100
+item=Holly w=100
+item=Holidaycandy1 w=100
+item=Bells w=100
+item=Eyeball w=100
+item=Halloweencandy w=100
+item=Candycorn w=100
+item=Star w=100
+item=Easterbasket w=100
+item=Eggblue w=100
+item=Egggreen w=100
+item=Eggred w=100
+item=Toybunny w=100
+item=Toysanta w=100
+item=Valentinesheart w=100
+
+#---------------
+loottable=Fridge
+#---------------
+item=Plantern w=100
+item=Skull w=100
+item=Holly w=100
+item=Holidaycandy1 w=100
+item=Bells w=100
+item=Eyeball w=100
+item=Halloweencandy w=100
+item=Candycorn w=100
+item=Star w=100
+item=Easterbasket w=100
+item=Eggblue w=100
+item=Egggreen w=100
+item=Eggred w=100
+item=Toybunny w=100
+item=Toysanta w=100
+item=Valentinesheart w=100
+
+#--------------------
+loottable=HumanCorpse
+#--------------------
+item=Plantern w=100
+item=Skull w=100
+item=Holly w=100
+item=Holidaycandy1 w=100
+item=Bells w=100
+item=Eyeball w=100
+item=Halloweencandy w=100
+item=Candycorn w=100
+item=Star w=100
+item=Easterbasket w=100
+item=Eggblue w=100
+item=Egggreen w=100
+item=Eggred w=100
+item=Toybunny w=100
+item=Toysanta w=100
+item=Valentinesheart w=100
+
+#------------------------
+loottable=KitchenCupboard
+#------------------------
+item=Plantern w=100
+item=Skull w=100
+item=Holly w=100
+item=Holidaycandy1 w=100
+item=Bells w=100
+item=Eyeball w=100
+item=Halloweencandy w=100
+item=Candycorn w=100
+item=Star w=100
+item=Easterbasket w=100
+item=Eggblue w=100
+item=Egggreen w=100
+item=Eggred w=100
+item=Toybunny w=100
+item=Toysanta w=100
+item=Valentinesheart w=100
+
+#---------------
+loottable=Locker
+#---------------
+item=Plantern w=100
+item=Skull w=100
+item=Holly w=100
+item=Holidaycandy1 w=100
+item=Bells w=100
+item=Eyeball w=100
+item=Halloweencandy w=100
+item=Candycorn w=100
+item=Star w=100
+item=Easterbasket w=100
+item=Eggblue w=100
+item=Egggreen w=100
+item=Eggred w=100
+item=Toybunny w=100
+item=Toysanta w=100
+item=Valentinesheart w=100
+
+#-----------------
+loottable=MetalBox
+#-----------------
+item=Plantern w=100
+item=Skull w=100
+item=Holly w=100
+item=Holidaycandy1 w=100
+item=Bells w=100
+item=Eyeball w=100
+item=Halloweencandy w=100
+item=Candycorn w=100
+item=Star w=100
+item=Easterbasket w=100
+item=Eggblue w=100
+item=Egggreen w=100
+item=Eggred w=100
+item=Toybunny w=100
+item=Toysanta w=100
+item=Valentinesheart w=100
+
+#-------------------
+loottable=PlasticBox
+#-------------------
+item=Plantern w=100
+item=Skull w=100
+item=Holly w=100
+item=Holidaycandy1 w=100
+item=Bells w=100
+item=Eyeball w=100
+item=Halloweencandy w=100
+item=Candycorn w=100
+item=Star w=100
+item=Easterbasket w=100
+item=Eggblue w=100
+item=Egggreen w=100
+item=Eggred w=100
+item=Toybunny w=100
+item=Toysanta w=100
+item=Valentinesheart w=100
+
+#-------------------------
+loottable=Wardrobe_regular
+#-------------------------
+item=Plantern w=100
+item=Skull w=100
+item=Holly w=100
+item=Holidaycandy1 w=100
+item=Bells w=100
+item=Eyeball w=100
+item=Halloweencandy w=100
+item=Candycorn w=100
+item=Star w=100
+item=Easterbasket w=100
+item=Eggblue w=100
+item=Egggreen w=100
+item=Eggred w=100
+item=Toybunny w=100
+item=Toysanta w=100
+item=Valentinesheart w=100
+
+#-------------------------
+scene=LakeRegion
+#-------------------------
+item=GEAR_Skull p=788.8929,212.9955,969.1581 r=0.0000,0.0000,0.0000 c=100
+item=GEAR_Plantern p=789.1548,213.0055,970.6598 r=0.0000,81.2717,0.0000 c=100
+item=GEAR_Holly p=788.2405,213.8555,965.2242 r=0.0000,209.2796,0.0000 c=100
+item=GEAR_Holidaycandy1 p=787.7862,213.4186,966.7922 r=0.0000,260.1713,0.0000 c=100
+item=GEAR_Skull p=966.9551,38.7577,845.8194 r=359.3987,359.9926,1.4186 c=100
+item=GEAR_Plantern p=968.1530,38.8309,849.9622 r=359.3987,359.9926,1.4186 c=100
+item=GEAR_Plantern p=-4.4402,3.8079,-0.2170 r=356.6233,359.8289,5.8015 c=100
+item=GEAR_Christmastree p=-1.2740,0.0436,1.2088 r=0.0000,0.0000,0.0000 c=100
+item=GEAR_Skull p=1308.2570,16.6320,289.0475 r=0.0000,0.0000,0.0000 c=100
+item=GEAR_Plantern p=1385.6440,16.6731,191.7576 r=0.0000,0.0000,0.0000 c=100
+item=GEAR_Skull p=1384.0880,16.6731,191.1736 r=0.0000,0.0000,0.0000 c=100
+item=GEAR_Skull p=1677.4530,33.0723,1310.0060 r=357.8803,11.8957,1.3828 c=100
+item=GEAR_Plantern p=1674.3480,34.0325,1326.1750 r=0.0000,224.4537,0.0000 c=100
+item=GEAR_Christmastree p=1498.7610,18.5151,660.9712 r=4.4866,89.3074,1.7358 c=100
+
+loottable=LootTableTideLine
+item=Plantern w=60
+item=Skull w=60
+item=Holly w=60
+item=Holidaycandy1 w=60
+item=Bells w=60
+item=Eyeball w=60
+item=Halloweencandy w=60
+item=Candycorn w=60
+item=Star w=60
+item=Easterbasket w=60
+item=Eggblue w=60
+item=Egggreen w=60
+item=Eggred w=60
+item=Toybunny w=60
+item=Toysanta w=60
+item=Valentinesheart w=60
+
+
+
