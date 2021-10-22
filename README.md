@@ -2,9 +2,7 @@
 
 ## Known Issues
 
-* Item sizes can be disproportional.
 * Inventory icons might not look right.
-* Box colliders might not be correct.
 
 ## Installation
 
